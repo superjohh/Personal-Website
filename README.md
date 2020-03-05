@@ -1,2 +1,3 @@
-# Personal-Website
-My website
+# personalWebSite
+
+Your WebSite
